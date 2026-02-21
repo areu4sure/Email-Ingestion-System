@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Gmail OAuth credentials
+config/gmail_credentials.json
+
+# Logs
+logs/
+
+# OS junk
+.DS_Store
+Thumbs.db
